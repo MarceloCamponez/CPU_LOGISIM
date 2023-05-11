@@ -1,7 +1,6 @@
 # CPU_LOGISIM
-4 BITS RISC MICROPROCESSOR PROJECT USING LOGISIM SIMULATOR 
+4 Bits RISC microprocessor project using logisim simulator
 
-FILE MPU_RISC_4BITS.CIR IS A SIMULATION FILE FOR LOGISIM VERSION 2.7.1
-THIS IS A RISC PROCESSOR PROJECT AVAIBLE TO RUN CODE IN NATIVE MACHINE LANGUAGE. 
+File mpu_risc_4bits.cir is a simulation file for logisim version 2.7.1 this is a 4 bits RISC processor project, avaible to run code in native machine language.
 
-FILE MPU_RSC_4BITS.PDF IS THE MANUAL FOR INSTRUCTION FORMAT AND COMPUTER ARCHITETURE. 
+File mpu_rsc_4bits.pdf is the manual for instruction format and computer architeture.
